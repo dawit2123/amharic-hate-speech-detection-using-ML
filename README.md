@@ -69,7 +69,6 @@ Ensure you have the following installed on your machine:
    ```
    Hate_speech_detection_using_amharic_language.ipynb
    ```
-
 ---
 
 ## Model Usage
