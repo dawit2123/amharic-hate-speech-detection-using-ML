@@ -1,5 +1,5 @@
 # Amharic hate speech detection using Machine learning
 
-### Amharic Hate Speech Detection model using Transformers model mainly mBERT, RoBERTa and mT5
+### To view the live of the model: [Click Here](https://huggingface.co/spaces/devaprobs/amharic-hate-speech-detection)
 
 #### Copyright &copy; 2024. Done by Dawit Zewdu Munie
