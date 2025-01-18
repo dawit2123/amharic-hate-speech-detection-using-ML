@@ -3,7 +3,7 @@
 ![Demo](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/demo.png)
 
 ### Live Demo
-To interact with the live model: [Click Here](https://huggingface.co/spaces/devaprobs/amharic-hate-speech-detection)
+To view the model: [Click Here](https://huggingface.co/devaprobs/hate-speech-detection-using-amharic-language)
 
 ---
 
