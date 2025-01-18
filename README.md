@@ -1,9 +1,14 @@
 # Amharic Hate Speech Detection Using Machine Learning
 
-![Demo](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/demo.png)
+![Demo](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/Demo/demo.png)
 
-### Live Demo
+### Model View
 To view the model: [Click Here](https://huggingface.co/devaprobs/hate-speech-detection-using-amharic-language)
+
+### Example of Normal Speech
+![Normal Speech](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/Demo/Normal%20Text.png)
+### Example of Hate Speech
+![Hate Speech](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/Demo/Hate%20Text.png)
 
 ---
 
@@ -48,7 +53,6 @@ The model was fine-tuned using a dataset sourced from Mendeley Data. The dataset
 Ensure you have the following installed on your machine:
 - Python 3.8+
 - Jupyter Notebook
-- Required Python libraries listed in the `requirements.txt` file.
 
 ### Steps
 1. Clone the repository:
@@ -93,6 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - **Dataset Contributors**: Special thanks to the contributors who provided labeled Amharic text datasets.
 ---
+##### The model can make mistake. Check for critical information.
 
 #### Copyright &copy; 2024. Done by Dawit Zewdu Munie
 
