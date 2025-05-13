@@ -1,4 +1,4 @@
-# Amharic Hate Speech Detection Using Machine Learning
+# Amharic Hate Speech Detection Using Machine Learning 
 
 ![Demo](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/Demo/demo.png)
 
