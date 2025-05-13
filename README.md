@@ -1,12 +1,12 @@
 # Amharic Hate Speech Detection Using Machine Learning 
 
-![Demo](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/main/Demo/demo.png)
+![Demo](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/Demo/demo.png)
 
 
 ### Example of Normal Speech
-![Normal Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/main/Demo/Normal%20Text.png)
+![Normal Speech](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/Demo/Normal%20Text.png)
 ### Example of Hate Speech
-![Hate Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/main/Demo/Hate%20Text.png)
+![Hate Speech](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/Demo/Hate%20Text.png)
 
 ---
 
@@ -55,7 +55,7 @@ Ensure you have the following installed on your machine:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abkodes/amharic-hate-speech-detection-using-ML.git
+   git clone https://github.com/dawit2123/amharic-hate-speech-detection-using-ML.git
    ```
 2. Navigate to the project directory:
    ```bash
