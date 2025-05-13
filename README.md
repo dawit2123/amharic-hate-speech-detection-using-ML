@@ -1,14 +1,12 @@
 # Amharic Hate Speech Detection Using Machine Learning 
 
-![Demo](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/Demo/demo.png)
+![Demo](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/main/Demo/demo.png)
 
-### Model View
-To view the model: [Click Here](https://huggingface.co/devaprobs/hate-speech-detection-using-amharic-language)
 
 ### Example of Normal Speech
-![Normal Speech](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/Demo/Normal%20Text.png)
+![Normal Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/main/Demo/Normal%20Text.png)
 ### Example of Hate Speech
-![Hate Speech](https://github.com/dawit2123/amharic-hate-speech-detection-using-ML/blob/main/Demo/Hate%20Text.png)
+![Hate Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/main/Demo/Hate%20Text.png)
 
 ---
 
@@ -57,7 +55,7 @@ Ensure you have the following installed on your machine:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dawit2123/amharic-hate-speech-detection-using-ML.git
+   git clone https://github.com/abkodes/amharic-hate-speech-detection-using-ML.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -89,15 +87,9 @@ Contributions are welcome! If you have suggestions or want to improve the model,
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 - **Dataset Contributors**: Special thanks to the contributors who provided labeled Amharic text datasets.
 ---
 ##### The model can make mistake. Check for critical information.
 
-#### Copyright &copy; 2024. Done by Dawit Zewdu Munie
 
