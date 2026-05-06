@@ -96,4 +96,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 ##### The model can make mistake. Check for critical information.
 
-#### Copyright &copy; 2024. Done by Dawit Zewdu Munie.
+#### Copyright &copy; 2026. Done by Dawit Zewdu Munie.
