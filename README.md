@@ -13,7 +13,8 @@ To view the model: [Click Here](https://huggingface.co/devaprobs/hate-speech-det
 ---
 
 ## Overview
-This repository presents a Hate Speech Detection Model for the Amharic language, fine-tuned from the multilingual BERT (mBERT) model. Leveraging the HuggingFace Trainer API, this model is specifically designed to detect hate speech in Amharic with high accuracy and precision.
+This repository presents a Hate Speech Detection Model for the Amharic language, fine-tuned from the multilingual BERT (mBERT) model. 
+Leveraging the HuggingFace Trainer API, this model is specifically designed to detect hate speech in Amharic with high accuracy and precision.
 
 ### Key Features
 - Fine-tuned mBERT Model: Built on Davlan's bert-base-multilingual-cased-finetuned-amharic from Hugging Face.
